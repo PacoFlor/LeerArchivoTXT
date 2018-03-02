@@ -1,2 +1,2 @@
-$LeearArchivoTXT
-$ 1 versi�n
+﻿# LeerArchivoTXT
+1 versión
